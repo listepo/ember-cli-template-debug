@@ -1,4 +1,4 @@
-# Debug helper for htmlbars ```ember-cli-template-debug```
+# Debug helper for htmlbars
 
 Installation
 ```
